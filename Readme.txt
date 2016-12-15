@@ -1,6 +1,6 @@
 This project is been done by Team 4 of BIA-660-A.
 
-The team memebers are:-
+The Team memebers are:-
 Dhruvitkumar Patel
 Ishita Arora
 Karthik Balasubramanyam
@@ -8,7 +8,6 @@ Keven Sebastian
 Sarayu Bangalore Rajaram
 
 The following statements are for running the python code for our project.
-
 
 1. Python should be installed in the system.
 
