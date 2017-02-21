@@ -1,4 +1,4 @@
-This project is been done by Team 4 of BIA-660-A.
+This project has been done by Team 4 of BIA-660-A.
 
 The Team memebers are:-
 Dhruvitkumar Patel
